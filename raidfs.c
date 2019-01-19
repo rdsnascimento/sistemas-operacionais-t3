@@ -145,7 +145,6 @@ int initfs(char * arquivo){
 				}
 					
 			}else{ //tem uma quantidade impar de blocos, tem bloco que ficou sozinho. Completar pra ficar com 1024 em dois arquivos
-				printf("OIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII GENTEEEEEEEEEEEEEEEE\n");
 				for(int i=0; i < (quantidadeDeBlocos - 1); i++){ //vai até o último bloco par
 					fgets (vetor1, tamBloco, arq); //leio um bloco
 					fgets (vetor2, tamBloco, arq); //leio o outro bloco
