@@ -1,21 +1,3 @@
-# Trabalho 3 - Sistemas Operacionais - 2018/1
-Prof. Maurício Lima Pilla - http://lups.inf.ufpel.edu.br/~pilla
-
-## Dados do(a)s aluno(a)s
-
-Declaro que o presente trabalho contém código desenvolvido exclusivamente por mim e que não foi compartilhado de nenhuma forma com terceiros a não ser o professor da disciplina. Compreendo que qualquer violação destes princípios será punida rigorosamente de acordo com o Regimento da UFPEL.
-
-(Preencha com seus dados)
-
-- Nome completo: Rafael de Sousa Nascimento
-- Username do Bitbucket: rdsnascimento
-- Email @inf: rdsnascimento@inf.ufpel.edu.br
-
-- Nome completo: 
-- Username do Bitbucket: 
-- Email @inf: 
-
-
 ## Descrição
 
 Este trabalho pode ser feito em grupos de dois alunos. No entanto, os grupos devem ser organizados de forma que apenas alunos que entregaram pelo menos um dos trabalhos podem formar grupos junto. Os alunos que não entregaram trabalhos podem formar grupos entre si.
