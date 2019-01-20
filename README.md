@@ -34,15 +34,6 @@ O pipeline do Bitbucket deve estar executando ambos os testes (primeiro o teste 
         make aluno
         make grade
 
-**Grupos com _commits_ predominantemente de um componente apenas terão descontos na nota.**
-
-## Cronograma
-
-* Primeira discussão em aula: _28/06/2018_
-* Segunda discussão em aula: _05/07/2018_
-* Terceira discussão em aula: _12/07/2018_
-* Envio da versão final: _22/07/2018_ 
-
 ## Observações
 
 O trabalho pode ser feito em C ou C++. 
