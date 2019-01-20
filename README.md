@@ -36,9 +36,7 @@ O pipeline do Bitbucket deve estar executando ambos os testes (primeiro o teste 
 ## Observações
 
 O trabalho pode ser feito em C ou C++. 
-
 Uma estrutura interna pode ser usada para armazenar eventuais descritores de arquivos abertos.
-
 O cálculo do bloco de paridade é livre, mas sugere-se o uso de XOR bit-a-bit.
 
 
