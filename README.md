@@ -20,7 +20,6 @@ A entrada é um arquivo binário com terminação _.bin_ .
 
 A saída são três arquivos binários _.bin1, .bin2, .bin3_. com o mesmo nome do arquivo original. Caso os arquivos já existam, devem ser sobreescritos.
 
-
 ## Produtos
 
 Os seguintes produtos devem ser entregues:
